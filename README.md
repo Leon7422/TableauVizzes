@@ -1,6 +1,6 @@
 # TableauVizzes
 
-You can view some of my previous work in Tableau by clicking on the image
+Here you can see some of my previous work in Tableau by clicking on the image
 
 Тут можна ознайомитись з деякими моїми попередніми роботами в Tableau нажавши на картинку
 
